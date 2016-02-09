@@ -1,2 +1,2 @@
 require('gitpullnode')();
-console.log('test');
+console.log('tests');
